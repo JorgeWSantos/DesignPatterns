@@ -2,22 +2,14 @@ using System;
 
 namespace DesignPatterns.Project2
 {
-    public class Container
+    public abstract class Container
     {
-        public void addComponent(){
-            
-        }
-
-        public void removeComponent(){
-            
-        }
-
-        public void doLayout(){
-            
-        }
-
+        public abstract void addComponent();
+        public abstract void removeComponent();
+        public abstract void doLayout();
+        
         public void dispose(){
-            
+
             Console.WriteLine("dispose container");
         }
     }
