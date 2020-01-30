@@ -38,7 +38,7 @@
 
 #### GridContainer:
 
-* Group component in a composition left to right in one row.
+* Group component in a composition left to right in and top to bottom.
 
     #### Requirements
 
