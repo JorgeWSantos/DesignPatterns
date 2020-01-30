@@ -1,4 +1,4 @@
-namespace Project2
+namespace DesignPatterns.Project2
 {
     public class Component
     {
