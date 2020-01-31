@@ -1,21 +1,37 @@
 
+using System;
+using System.Collections.Generic;
+
 namespace DesignPatterns.Project2
 {
     public class FlowContainer : Container
     {
-        public override void addComponent()
+        List<Component> components;
+
+        public FlowContainer()
         {
-            throw new System.NotImplementedException();
+            this.components = new List<Component>();
         }
 
-        public override void doLayout()
-        {
-            throw new System.NotImplementedException();
+        public override void addComponent(Component component){
+
+            components.Add(component);
         }
 
-        public override void removeComponent()
-        {
-            throw new System.NotImplementedException();
+        public override void removeComponent(Component component) {
+
+            components.Remove(component);
+        }
+        public override void doLayout() {
+
+            Console.WriteLine("---------");
+            Console.WriteLine("flow container");
+            foreach (var component in components)
+            {
+                Console.WriteLine(component);
+            }
+            this.dispose();
+            Console.WriteLine("---------\n");
         }
     }
 }
