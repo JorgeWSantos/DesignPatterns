@@ -17,13 +17,19 @@
 ### **Requirements:**
 * Create containers to group [Components](#Component-types) of graphic interface.
 * Create two group of containers, [FlowContainer](#FlowContainer) and [GridContainer](#GridContainer).
-* Diagram of requeriments see [here](#Diagram).
+* Diagram of [requeriments](#Diagram) to containers.
+* Both container types must be able to use [borders](#border-types) or not.
 
-#### Component types
+#### Component types:
 1. Button.
 2. TextArea.
 3. RadioButton.
 4. ...
+
+#### Border types:
+1. Solid Border
+2. Etched Border
+3. ...
 
 #### FlowContainer:
 * Group component in a composition left to right in one row.
@@ -38,7 +44,7 @@
 
 #### GridContainer:
 
-* Group component in a composition left to right in and top to bottom.
+* Group component in a composition left to right in and top to bottom disposing of rows and columns.
 
     #### Requirements
 
@@ -48,7 +54,7 @@
 
     * Must be able to close yourself.
 
-#### Diagram:
+#### Requirements diagram:
  ![](assets/Diagram.png)
 
 
