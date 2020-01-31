@@ -65,8 +65,6 @@ namespace DesignPatterns.Project2
             {
                 Console.WriteLine(row);
             }
-            this.dispose();
-            Console.WriteLine("----------\n");
         }
     }
 }

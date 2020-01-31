@@ -30,8 +30,6 @@ namespace DesignPatterns.Project2
             {
                 Console.WriteLine(component);
             }
-            this.dispose();
-            Console.WriteLine("---------\n");
         }
     }
 }
