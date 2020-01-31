@@ -4,9 +4,14 @@ namespace DesignPatterns.Project2
     {
         public string name { get; set; }
 
-        public Component(string name)
-        {
+        public Component(string name){
+
             this.name = name;
+        }
+
+        public override string ToString(){
+            
+            return name;
         }
     }
 }
