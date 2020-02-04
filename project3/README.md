@@ -19,7 +19,7 @@
 * Create players to inherit the comportaments of Player.
 * Encapsulate the method performRunning because it varies. 
 
-<!-- #### Requirements diagram: -->
- <!-- ![](assets/Diagram.png) -->
+#### Requirements diagram:
+ ![](assets/EncapsuateWhatVaries.png)
 
 
