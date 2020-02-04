@@ -7,7 +7,7 @@ namespace DesignPatterns.Project3
         private string name;
         private Runnable runnable;
 
-        public Player(string name, Runnable runnable){
+        protected Player(string name, Runnable runnable){
 
             this.name = name;
             this.runnable = runnable;
