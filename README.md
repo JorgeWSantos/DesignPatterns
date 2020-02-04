@@ -6,3 +6,5 @@
 - **[Programing to a interface instead a concrete class](Project1/README.md)**
 
 - **[Favour composition over inheritance](Project2/README.md)**
+
+- **[Encapsulate what varies](project3/README.md)**
