@@ -1,10 +1,8 @@
 # Design Patterns
 
-### This repository contains .Net Core console apps project that implements Design Patterns.
+### Esse repositório contém .Net Core console apps que implementam Design Patterns.
 
-## Projects developed
-- **[Programing to a interface instead a concrete class](Project1/README.md)**
+## Projetos
 
-- **[Favour composition over inheritance](Project2/README.md)**
-
-- **[Encapsulate what varies](project3/README.md)**
+- **[Strategy Project](Strategy-Project/README.md)**
+- **[Abstract Factory](Abstract-Factory/README.md)**
