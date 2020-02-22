@@ -9,3 +9,4 @@
 - **[Fluent Builder](Fluent-Builder/README.md)**
 - **[Builder](Builder/README.md)**
 - **[Factory Method](Factory-Method/README.md)**
+- **[Prototype](Prototype/README.md)**
