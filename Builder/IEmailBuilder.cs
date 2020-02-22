@@ -1,5 +1,6 @@
 namespace Builder
 {
+    //builder
     interface IEmailBuilder
     {
         EmailBuilder to(string adress);
