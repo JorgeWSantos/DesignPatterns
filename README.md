@@ -1,6 +1,6 @@
 # Design Patterns
 
-### Esse repositório contém .Net Core console apps que implementam Design Patterns.
+### Esse repositório contém .Net Core 3.1 console apps que implementam Design Patterns.
 
 ## Projetos
 
