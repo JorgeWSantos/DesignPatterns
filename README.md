@@ -7,3 +7,4 @@
 - **[Strategy Project](Strategy-Project/README.md)**
 - **[Abstract Factory](Abstract-Factory/README.md)**
 - **[Fluent Builder](Fluent-Builder/README.md)**
+- **[Builder](Builder/README.md)**
