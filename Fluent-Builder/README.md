@@ -8,7 +8,7 @@
 
 * **Product:** Esta é uma classe que define as partes do objeto complexo que devem ser geradas pelo padrão Builder.
 
-* **Diretor:** Esta é uma classe que é usada para construir um objeto usando a interface do Builder.
+<!-- * **Diretor:** Esta é uma classe que é usada para construir um objeto usando a interface do Builder. -->
 
 
 
