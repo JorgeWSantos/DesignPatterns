@@ -6,7 +6,7 @@
 ### **Participantes:**
 * **Product:** define a interface de objetos que o método fábrica cria.
 
-* **Concrete Product:** Esta é uma classe que implementa a interface do Builder para criar um produto complexo.
+* **Concrete Product:** implementa a interface product.
 
 * **Creator:** declara o método fábrica, o qual retorna um objeto do tipo Produto. Criador também pode definir uma implementação por omissão do método factory que retorna por omissão um objeto ConcreteProduct.
 
