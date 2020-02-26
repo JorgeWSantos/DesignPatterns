@@ -16,9 +16,6 @@
 
 * **Concrete Implementor:** implementa a interface de Implementor e define sua implementação concreta.
 
-<!-- ### **Quando Implementar:**
-
-* quando houver necessidade que uma classe tem apenas uma instancia. -->
 
 #### Diagrama:
  ![](assets/bridge.png)

@@ -10,7 +10,8 @@
 
 * **Diretor:** Esta é uma classe que é usada para construir um objeto usando a interface do Builder.
 
-
+### Benefícios:
+* Compor objetos complexos.
 
 #### Diagrama:
  ![](assets/builderpattern.png)

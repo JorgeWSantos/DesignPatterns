@@ -4,8 +4,17 @@
 
 ## Projetos
 
-- **[Strategy Project](Strategy-Project/README.md)**
+### Padrões criacionais:
+
 - **[Abstract Factory](Abstract-Factory/README.md)**
 - **[Builder](Builder/README.md)**, **[Fluent Builder](Fluent-Builder/README.md)**
 - **[Factory Method](Factory-Method/README.md)**
 - **[Prototype](Prototype/README.md)**, **[Prototype2](Prototype2/README.md)**
+
+### Padrões estruturais:
+- **[Adpter](Adapter/README.md)**
+- **[Composite](Composite/README.md)**
+- **[Bridge](Bridge/README.md)**
+
+#### Padrões comportamentais:
+- **[Strategy Project](Strategy-Project/README.md)**

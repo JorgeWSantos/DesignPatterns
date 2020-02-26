@@ -17,7 +17,7 @@
 
 * quando houver necessidade de adaptar um comportamento.
 
-**benificios:**
+**benefícios:**
 * Permite o uso comportamentos incompativeis através da classe adapter. 
 
 ### Diagrama:
