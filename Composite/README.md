@@ -23,8 +23,8 @@ Composite permite que clientes tratem objetos individuais e composição de obje
 * quando houver necessidade que uma classe tem apenas uma instancia. -->
 
 #### Diagrama:
- <!-- ![](assets/singleton.png)
+ ![](assets/composite.png)
  
- Fonte: https://reactiveprogramming.io/public/books/patterns/img/patterns-articles/singleton-diagram.png -->
+ Fonte: https://reactiveprogramming.io/public/books/patterns/img/patterns-articles/singleton-diagram.png
 
 
