@@ -2,6 +2,7 @@ using System;
 
 namespace Composite
 {
+    //leaf
     public class TextBox : Component
     {
         public TextBox(string name)

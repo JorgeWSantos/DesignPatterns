@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Composite
 {
+    //composite
     public class Form : Component
     {
         List<Component> children;
