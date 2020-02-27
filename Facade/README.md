@@ -1,4 +1,4 @@
-# Decorator pattern
+# Facade pattern
 
 ## **Descrição**
 * tem como objetivocriar uma forma mais simples de lidar com um istema mais complexo, escondendo muito de sua implementação e fortaçendo o encapsulamento e isolamento.
