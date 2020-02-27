@@ -15,6 +15,8 @@
 - **[Adpter](Adapter/README.md)**
 - **[Composite](Composite/README.md)**
 - **[Bridge](Bridge/README.md)**
+- **[Decorator](Decorator/README.md)**
+- **[Facade](Facade/README.md)**
 
 #### Padrões comportamentais:
 - **[Strategy Project](Strategy-Project/README.md)**
