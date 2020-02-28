@@ -1,7 +1,5 @@
-﻿using System;
-using Abstract_Factory.data.oracle;
+﻿using Abstract_Factory.data.oracle;
 using Design_Patterns.data;
-using Design_Patterns.data.sqlserver;
 
 namespace Design_Patterns
 {
