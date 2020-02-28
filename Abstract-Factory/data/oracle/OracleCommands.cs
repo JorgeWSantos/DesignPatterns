@@ -3,6 +3,7 @@ using Design_Patterns.data;
 
 namespace Abstract_Factory.data.oracle
 {
+    //concrete product
     public class OracleCommands : DbCommands
     {
         public override bool delete(){

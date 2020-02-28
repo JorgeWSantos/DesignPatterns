@@ -3,6 +3,7 @@ using Design_Patterns.data;
 
 namespace Abstract_Factory.data.oracle
 {
+    //concrete product
     public class OracleConnection : DbConnection
     {
         public override void close()

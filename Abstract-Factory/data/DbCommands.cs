@@ -1,5 +1,6 @@
 namespace Design_Patterns.data
 {
+    //abstract product
     public abstract class DbCommands
     {
         public abstract bool save();

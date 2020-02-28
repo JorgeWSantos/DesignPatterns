@@ -2,6 +2,7 @@ using System;
 
 namespace Design_Patterns.data.sqlserver
 {
+    //concrete product
     public class SqlServerConnection : DbConnection
     {
         public override void close()
