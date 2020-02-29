@@ -6,7 +6,13 @@ namespace SRP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Produto produto = new Produto(){
+                nome = "celular"
+            };
+            IDAOProduto dao = new DAOProduto();
+            dao.adicionar(produto);
+
+
         }
     }
 }
