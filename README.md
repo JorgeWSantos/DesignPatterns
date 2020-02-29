@@ -20,3 +20,10 @@
 
 #### Padrões comportamentais:
 - **[Strategy Project](Strategy-Project/README.md)**
+
+### SOLID:
+- **[Single Responsiblity Principle](SRP/README.md)**
+- **[Open Closed Principle](OCP/README.md)**
+- **[Liskov Substitution Principle](LSP/README.md)**
+- **[Interface Segregation Principle](ISP/README.md)**
+- **[Dependency Inversion Principle](ISP/README.md)**
